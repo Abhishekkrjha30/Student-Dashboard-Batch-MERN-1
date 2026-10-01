@@ -1,1 +1,1 @@
-consolw.log("Hello Kaise ho ")
+console.log("Hello Kaise ho ")
